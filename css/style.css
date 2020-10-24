@@ -277,7 +277,8 @@ body {
   border: 1px solid #ffc53d;
   border-radius: 4px;
   color: #ffc53d;
-  padding: 0 16px;
+  padding-left: 16px;
+  padding-right: 16px;
   cursor: pointer;
 }
 .button-outline .icon {
@@ -371,6 +372,7 @@ body {
 }
 .add-text {
   min-height: 362px;
+  resize: none;
 }
 .add-button {
   width: 100%;
